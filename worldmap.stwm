@@ -7,7 +7,7 @@
   (sector
     (name "main")
     (ambient-light 1 1 1 1)
-    (music "music/maniac.ogg")
+    (music "music/salcon.ogg")
     (tilemap
       (draw-target "normal")
       (width 100)
@@ -138,7 +138,7 @@
     (level
       (x 21)
       (y 10)
-      (name "")
+      (name "level13.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -147,7 +147,7 @@
     (level
       (x 24)
       (y 12)
-      (name "")
+      (name "level14.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -156,7 +156,7 @@
     (level
       (x 24)
       (y 11)
-      (name "")
+      (name "level15.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -165,7 +165,7 @@
     (level
       (x 4)
       (y 14)
-      (name "")
+      (name "level16.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -182,7 +182,7 @@
     (level
       (x 3)
       (y 16)
-      (name "")
+      (name "level17.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -191,7 +191,7 @@
     (level
       (x 3)
       (y 19)
-      (name "")
+      (name "level18.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -200,7 +200,7 @@
     (level
       (x 5)
       (y 21)
-      (name "")
+      (name "level19.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -209,7 +209,7 @@
     (level
       (x 8)
       (y 21)
-      (name "")
+      (name "level20.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -218,7 +218,7 @@
     (level
       (x 9)
       (y 22)
-      (name "")
+      (name "level21.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -227,7 +227,7 @@
     (level
       (x 12)
       (y 22)
-      (name "")
+      (name "level22.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -236,7 +236,7 @@
     (level
       (x 20)
       (y 21)
-      (name "")
+      (name "level23.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -245,7 +245,7 @@
     (level
       (x 18)
       (y 18)
-      (name "")
+      (name "level24.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -254,7 +254,7 @@
     (level
       (x 17)
       (y 17)
-      (name "")
+      (name "level25.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -372,7 +372,7 @@
     (level
       (x 24)
       (y 20)
-      (name "")
+      (name "level26.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -381,7 +381,7 @@
     (level
       (x 27)
       (y 20)
-      (name "")
+      (name "level27.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -390,7 +390,7 @@
     (level
       (x 33)
       (y 22)
-      (name "")
+      (name "level29.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -399,7 +399,7 @@
     (level
       (x 33)
       (y 20)
-      (name "")
+      (name "level28.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
@@ -426,7 +426,7 @@
     (level
       (x 36)
       (y 24)
-      (name "")
+      (name "level30.stl")
       (sprite "images/worldmap/common/leveldot.sprite")
       (extro-script "")
       (auto-play #f)
