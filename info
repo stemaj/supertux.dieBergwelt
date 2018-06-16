@@ -1,0 +1,6 @@
+(supertux-level-subset
+  (title (_ "Die Bergwelt"))
+  (description (_ "Nolokerei"))
+  (levelset #f)
+  (hide-from-contribs #f)
+)
