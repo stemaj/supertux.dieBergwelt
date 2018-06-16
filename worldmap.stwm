@@ -1,7 +1,7 @@
 (supertux-level
   (version 2)
-  (name (_ "Robins und Steffens Bergwelt"))
-  (author "Mr. X")
+  (name (_ "Die Bergwelt"))
+  (author "Robin")
   (tileset "images/worldmap.strf")
   (license "CC-BY-SA 4.0 International")
   (sector
