@@ -663,8 +663,8 @@
     (worldmap-spawnpoint
       (x 15)
       (y 13)
-      (name "")
-      (auto-dir "none")
+      (name "TEST")
+      (auto-dir "west")
     )
   )
 )
